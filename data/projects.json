@@ -1,0 +1,5 @@
+[
+    {"title": "Responsive Website", "category": "web", "description": "A mobile-first site."},
+    {"title": "Grid Layout", "category": "layout", "description": "A CSS Grid design."},
+    {"title": "Animated Portfolio", "category": "animation", "description": "Motion-rich site."}
+]
